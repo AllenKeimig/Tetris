@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ScoreList>
+	<entry id="1">
+		<Score>15000</Score>
+		<Name>Allen</Name>
+		<Rank>1</Rank>
+	</entry>
+	<entry id="2">
+		<Score>12000</Score>
+		<Name>Stephanie</Name>
+		<Rank>2</Rank>
+	</entry>
+	<entry id="3">
+		<Score>8000</Score>
+		<Name>Bill</Name>
+		<Rank>3</Rank>
+	</entry>
+	<entry id="4">
+		<Score>4000</Score>
+		<Name>Ed</Name>
+		<Rank>4</Rank>
+	</entry>
+	<entry id="5">
+		<Score>3300</Score>
+		<Name>Susie</Name>
+		<Rank>5</Rank>
+	</entry>
+	<entry id="6">
+		<Score>2500</Score>
+		<Name>Sally</Name>
+		<Rank>6</Rank>
+	</entry>
+	<entry id="7">
+		<Score>2000</Score>
+		<Name>Steve</Name>
+		<Rank>7</Rank>
+	</entry>
+	<entry id="8">
+		<Score>1700</Score>
+		<Name>Fred</Name>
+		<Rank>8</Rank>
+	</entry>
+	<entry id="9">
+		<Score>500</Score>
+		<Name>Jim</Name>
+		<Rank>9</Rank>
+	</entry>
+	<entry id="10">
+		<Score>300</Score>
+		<Name>Bob</Name>
+		<Rank>10</Rank>
+	</entry>
+</ScoreList>
